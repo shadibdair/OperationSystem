@@ -1,4 +1,4 @@
-# XV6 Operating System.
+# XV6 Operating System
 
 XV6 is a simple, Unix-like teaching operating system developed by the Massachusetts Institute of Technology (MIT) as a practical tool for learning about operating systems in the context of a functioning system. It's a re-implementation of Sixth Edition Unix (V6) using ANSI C for modern x86 processors.
 
